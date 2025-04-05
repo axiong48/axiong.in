@@ -1,0 +1,36 @@
+.bst-visualizer {
+    padding: 2rem;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .controls {
+    margin-bottom: 1rem;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  .controls input {
+    width: 80px;
+    padding: 5px;
+  }
+  
+  button {
+    padding: 6px 12px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #000000;
+  }
+  
+  .output {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+  }
+  

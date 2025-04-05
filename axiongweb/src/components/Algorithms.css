@@ -1,0 +1,57 @@
+.algo-page {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .algo-section {
+    margin-bottom: 60px;
+  }
+  
+  .bar-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 10px;
+    height: 150px;
+    margin: 30px auto;
+  }
+  
+  .bar {
+    width: 30px;
+    background-color: #000000;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 4px 4px 0 0;
+    transition: all 0.3s ease;
+  }
+  
+  .quick-bar {
+    background-color: #000000;
+  }
+
+  .randquick-bar {
+    background-color: black;
+  }
+  
+  .buttons button {
+    margin: 10px;
+    padding: 10px 18px;
+    font-weight: 500;
+    background-color: #212121;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .buttons button:hover:enabled {
+    background-color: #000000;
+  }
+  
+  .buttons button:disabled {
+    background-color: #bbb;
+    cursor: not-allowed;
+  }
+  

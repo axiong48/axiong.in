@@ -1,0 +1,42 @@
+.dfs-visualizer {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .dfs-title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .graph-container {
+    margin-top: 1rem;
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  
+  .controls {
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    padding: 6px 12px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 5px;
+  }
+  
+  button:hover {
+    background-color: #5a34a2;
+  }
+  
+  .output {
+    margin-top: 1.2rem;
+    font-size: 1.1rem;
+    color: #333;
+  }
+  

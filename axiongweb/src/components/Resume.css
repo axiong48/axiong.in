@@ -1,0 +1,84 @@
+.resume-html-view {
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+    background: #dedede;
+    border-radius: 3rem;
+  }
+  
+  .resume-html-view h1 {
+    font-size: 2rem;
+    margin-bottom: 0.25em;
+  }
+
+  
+  .resume-html-view h2 {
+    margin-top: 1.5em;
+    font-size: 1.4rem;
+    border-bottom: 2px solid #6f42c1;
+    padding-bottom: 5px;
+  }
+  
+  .resume-html-view h3 {
+    margin-top: 1em;
+    font-size: 1.1rem;
+    color: #444;
+  }
+  
+  .resume-html-view p {
+    margin-bottom: 1em;
+  }
+  
+  .resume-html-view ul {
+    list-style: disc;
+    padding-left: 20px;
+  }
+  
+  .resume-html-view li {
+    margin-bottom: 0.5em;
+  }
+  
+  .resume-download {
+    text-align: right;
+    margin-bottom: 20px;
+  }
+  
+  .download-btn {
+    background-color: #6f42c1;
+    color: white;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .download-btn:hover {
+    background-color: #555555;
+    transform: scale(2rem);
+  }
+
+  .resume-download-outside {
+    text-align: center;
+    margin: 40px 0 20px;
+  }
+  
+  .download-btn {
+    background-color: #000000;
+    color: white;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    border-radius: 1rem;
+  }
+  
+  .download-btn:hover {
+    background-color: #757575;
+    transform: scale(20);
+  }
+  
+  
