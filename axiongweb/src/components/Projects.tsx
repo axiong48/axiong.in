@@ -39,13 +39,13 @@ const Projects: React.FC = () => {
       </div>
       <br /><br />
       <h1 className="projects-title">Business Portfolios</h1>
-      <img src="/public/bus1.jpeg" alt="shopify earnings" className="bus-box">
+      <img src="/bus1.jpeg" alt="shopify earnings" className="bus-box">
       </img>
-      <img src="/public/bus2.jpeg" alt="shopify earnings" className="bus-box">
+      <img src="/bus2.jpeg" alt="shopify earnings" className="bus-box">
       </img>
-      <img src="/public/bus3.jpeg" alt="shopify earnings" className="bus-box">
+      <img src="/bus3.jpeg" alt="shopify earnings" className="bus-box">
       </img>
-      <img src="/public/bus4.jpeg" alt="shopify earnings" className="bus-box">
+      <img src="/bus4.jpeg" alt="shopify earnings" className="bus-box">
       </img>
     </div>
   );
