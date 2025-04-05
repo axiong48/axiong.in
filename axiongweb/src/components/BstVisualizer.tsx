@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./Algorithms.css";
+import "./BstVisualizer.css";
 
 interface TreeNode {
   value: number;
