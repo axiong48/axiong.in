@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./Algorithms.css";
-import BstVisualizer from "./BSTVisualizer";
+import BstVisualizer from "./BstVisualizer";
 import DfsVisualizer from "./DfsVisualizer";
 
 const Algorithms: React.FC = () => {
