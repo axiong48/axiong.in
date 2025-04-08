@@ -26,7 +26,7 @@ const Home = () => {
           </a>
         </div>
 
-        <img src="/pfp.png" alt="Aaron Xiong Profile Pic" className="profile-pic" />
+        <img src="/Aesirk.png" alt="Aaron Xiong Profile Pic" className="profile-pic" />
 
         <h5 className="profile-heading">
           <strong>3rd Year Computer Science Engineering At UC Merced</strong>
