@@ -33,7 +33,7 @@ const Home = () => {
           <br /><br />
           Website Designed By Aaron Xiong
           <br /><br />
-          Last Updated: 4/7/2025
+          <mark>Last Updated: 4/7/2025</mark>
         </h5>
 
         <p className="profile-description">
@@ -52,7 +52,7 @@ const Home = () => {
       <div className="home-text right">
         <h1 className="home-title">&lt;coder&gt;</h1>
         <p className="home-desc">
-          Front and Backend Developer designing programs making life easier.
+          Front and Backend Developer designing programs making life easier
         </p>
       </div>
     </div>
