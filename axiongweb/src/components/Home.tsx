@@ -32,6 +32,8 @@ const Home = () => {
           <strong>3rd Year Computer Science Engineering At UC Merced</strong>
           <br /><br />
           Website Designed By Aaron Xiong
+          <br /><br />
+          Last Updated: 4/7/2025
         </h5>
 
         <p className="profile-description">
