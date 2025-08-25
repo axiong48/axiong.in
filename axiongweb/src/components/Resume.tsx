@@ -13,7 +13,7 @@ const Resume: React.FC = () => {
 
     <div className="resume-html-view">
       <h1>Aaron Xiong</h1>
-      <p>3918 Alviso Dr | Merced, CA 95348 | (209) 500-8336 | aaronxiong1013@gmail.com</p>
+      
 
       <h2>Education</h2>
       <h3>UC Merced – Computer Science (2022 – Current)</h3>
